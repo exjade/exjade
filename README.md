@@ -7,7 +7,7 @@
 ```JavaScript
 
 class Desarrollador {
- constructor(name , role, language) {
+ constructor(name , role, country, state, language) {
       this.name = "Adrian Zamora";
       this.role =  = "Desarrollador FrontEnd";
       this.country = "México";
